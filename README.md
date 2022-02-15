@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235F7436&size=35&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Jonas!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235F7436&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Jonas!)](https://git.io/typing-svg)
 ![jnsntm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnsntm&theme=dark&show_icons=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jnsntm)](https://git.io/streak-stats)
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
