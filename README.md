@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349DC7F&size=30&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Jonas!)](https://git.io/typing-svg)
-<p align="center">
-  ![the-it-crowd-moss-the-it-crowd](https://user-images.githubusercontent.com/18127907/154068754-02b87304-47a0-40a2-9384-0c122f593058.gif)
-</p>
+
+![the-it-crowd-moss-the-it-crowd](https://user-images.githubusercontent.com/18127907/154068754-02b87304-47a0-40a2-9384-0c122f593058.gif)
+
 
 ![jnsntm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnsntm&theme=dark&show_icons=true&count_private=true&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnsntm&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
