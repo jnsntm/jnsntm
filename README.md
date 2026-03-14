@@ -27,6 +27,4 @@ and occasionally build things just to see if I can.
 FC St. Pauli · classic cars · Hamburg
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnsntm&theme=dark&show_icons=true&count_private=true&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnsntm&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
