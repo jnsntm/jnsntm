@@ -13,7 +13,7 @@ and occasionally build things just to see if I can.
 ---
 
 ### What I'm working on
-- `live` Kickdown — seller dashboard, real-time bid system
+- `live` Kickdown
 - `exploring` Specialist AI agent architectures
 
 ---
