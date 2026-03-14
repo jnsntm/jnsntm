@@ -14,7 +14,7 @@ and occasionally build things just to see if I can.
 
 ### What I'm working on
 - `live` Kickdown — seller dashboard, real-time bid system
-- `exploring` Specialist AI agent architecture for internal tooling
+- `exploring` Specialist AI agent architectures
 
 ---
 
