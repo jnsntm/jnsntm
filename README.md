@@ -19,7 +19,7 @@ and occasionally build things just to see if I can.
 ---
 
 ### Stack
-`Ruby on Rails` `JavaScript` `Node.js` `PostgreSQL` `D3.js` `Git` `HTML/CSS`
+`Ruby on Rails` `JavaScript` `Turbo` `Node.js` `PostgreSQL` `D3.js` `Git` `HTML/CSS`
 
 ---
 
