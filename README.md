@@ -1,8 +1,14 @@
 ## Jonas Nörtemann
 
-CTO · Full-stack engineer · Hamburg
+CTO · Product engineer · Hamburg
 
 Building [Kickdown](https://kickdown.com) — a German-language classic car auction platform.
+
+I lead product and engineering at Kickdown and share responsibility for data-informed
+marketing decisions while working closely with sales and operations. I joined while the product was young and have worked
+across the full journey: acquiring sellers, creating listings, running auctions, collecting payments and bringing buyers and sellers
+back. I build software, lead a small team and translate data and customer needs into decisions across departments
+
 I write Ruby/Rails and JavaScript, care about product as much as code,
 and occasionally build things just to see if I can.
 
