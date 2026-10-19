@@ -30,7 +30,7 @@ and occasionally build things just to see if I can.
 ---
 
 ### Also into
-FC St. Pauli · classic cars · Hamburg
+FC St. Pauli · classic cars · mechanical keyboards · photography · kettlebells
 
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jnsntm&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
